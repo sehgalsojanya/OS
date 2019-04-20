@@ -1,8 +1,8 @@
 #include<stdio.h>
-struct system
+struct system				
 {
     int pno;
-    int process_arrival;
+    int process_arrival;			//pno
     int process_burst;
     int priority;
 
