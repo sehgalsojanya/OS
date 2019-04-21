@@ -2,7 +2,7 @@
 struct system				
 {
     int pno;
-    int process_arrival;			//pno
+    int process_arrival;			
     int process_burst;
     int priority;
 
