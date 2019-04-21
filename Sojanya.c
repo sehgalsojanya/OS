@@ -29,7 +29,7 @@ int main()
 	struct result res[30];
 	int i,n,j,min,times,timeu,end,k,ideal_time,syscnt,uscnt,call,flag;
 	printf("Enter the no. of processes-");
-	scanf("%d",&n);					//enter process
+	scanf("%d",&n);					
 	i=1;
 	j=1;
 	for(k=1;k<=n;k++)
